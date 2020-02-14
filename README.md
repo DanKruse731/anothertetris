@@ -1,2 +1,2 @@
 # anothertetris
-Just another Tetris clone
+Whoopee, another Tetris clone.
